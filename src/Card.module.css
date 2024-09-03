@@ -1,0 +1,19 @@
+.parent-1{
+
+    display: flex;
+justify-content: center;
+width: 200px;
+flex-wrap: wrap;
+flex-direction: row;
+
+
+}
+.child-1 img{
+width:100px !important;
+
+
+}
+.row-x{
+    display: flex;
+    width: 30%;
+}

@@ -1,0 +1,34 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.parent h2{
+color: red;
+
+}
+.child{
+
+display: flex;
+align-items: center;
+flex-direction: column;
+
+
+}
+.child a{
+list-style: none;
+text-decoration: none;
+color: white;
+transition: color 1s;
+
+}
+.bg{
+background-color: black;
+
+}
+.child a:hover{
+color: red;
+
+
+}
